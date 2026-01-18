@@ -1,4 +1,12 @@
-📺央视频道,#genre#
+4K频道,#genre#
+CCTV4K
+东方卫视4K
+湖南卫视4K
+浙江卫视4K
+江苏卫视4K
+深圳卫视4K
+
+央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -22,7 +30,7 @@ CETV-2
 CETV-3
 CETV-4
 
-📡卫视频道,#genre#
+卫视频道,#genre#
 广东卫视
 香港卫视
 浙江卫视
